@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Bilonia</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="dont_have_account">Don\'t have an account yet?</string>
+    <string name="register">REGISTER</string>
+    <string name="username">Username</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="policy_and_terms">I accept the policy and terms</string>
+    <string name="library">Library</string>
+    <string name="buku">Buku</string>
+    <string name="pinjam">Pinjam</string>
+    <string name="kembali">Kembali</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="judul_book">Judul Buku</string>
+    <string name="add_book">Add Book</string>
+    <string name="penulis">Penulis</string>
+    <string name="tahun_terbit">Tahun Terbit</string>
+    <string name="jumlah_halaman">Jumlah Halaman</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="genre">Genre</string>
+    <string name="rak">Rak</string>
+    <string name="no_rak">No. Rak</string>
+    <string name="stock">Stock</string>
+    <string name="buku_yang_dipinjamkan">Buku yang dipinjamkan</string>
+    <string name="buku_yang_dikembalikan">Buku yang dikembalikan</string>
+    <string name="pilih_gambar">Pilih gambar</string>
+    <string name="zero">0</string>
+    <string name="pinjamkan_buku">Pinjamkan Buku</string>
+    <string name="tanggal_mulai">Tanggal mulai</string>
+    <string name="tanggal_kembali">Tanggal kembali</string>
+    <string name="kembalikan">Kembalikan</string>
+    <string name="rincian">Rincian</string>
+    <string name="hapus_riwayat">Hapus Riwayat</string>
+    <string name="have_account">Already have an account ?</string>
+</resources>

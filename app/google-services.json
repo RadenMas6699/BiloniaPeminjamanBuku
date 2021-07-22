@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055349905305",
+    "firebase_url": "https://appbilonia-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appbilonia",
+    "storage_bucket": "appbilonia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055349905305:android:aaef420cbb18c73c6f2508",
+        "android_client_info": {
+          "package_name": "com.radenmas.bilonia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055349905305-rv3qu4lipfk9b1aj7do6jp78v1nopg49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvNQfn-CQxs25VWMpflA4_ulkxdSgVxak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055349905305-rv3qu4lipfk9b1aj7do6jp78v1nopg49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
