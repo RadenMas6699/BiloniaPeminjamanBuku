@@ -14,7 +14,9 @@
         android:theme="@style/Theme.Bilonia">
         <activity android:name=".Auth.RegisterActivity" />
         <activity android:name=".Activity.MainActivity" />
-        <activity android:name=".Auth.LoginActivity">
+        <activity
+            android:name=".Auth.LoginActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
